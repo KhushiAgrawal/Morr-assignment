@@ -11,7 +11,7 @@ const App: React.FC = () => {
 };
 const styles = StyleSheet.create({
   content: {
-    // paddingTop: 96,
+    
     paddingHorizontal: 36,
   },
   title: {
